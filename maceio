@@ -409,7 +409,7 @@
 
             const casoContent = {
                 antes: {
-                    img: 'WhatsApp Image 2025-09-26 at 09.27.51.jpeg-8a968b85-26fa-478f-812b-41c385c036c7',
+                    img: 'antes',
                     alt: 'Fachada do imóvel antes da intervenção',
                     html: `
                         <h3 class="font-bold text-2xl mb-4 text-[#B85C38]">Diagnóstico: Risco Iminente</h3>
@@ -420,7 +420,7 @@
                         </div>`
                 },
                 depois: {
-                    img: 'WhatsApp Image 2025-10-01 at 22.38.30 (4).jpeg-83894886-4fa3-4849-8cee-5a81e8eee0c8',
+                    img: 'depois',
                     alt: 'Perspectiva da proposta arquitetônica para o imóvel',
                     html: `
                         <h3 class="font-bold text-2xl mb-4 text-[#2E5B9A]">Proposta de Intervenção</h3>
